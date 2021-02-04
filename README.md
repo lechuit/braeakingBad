@@ -5,4 +5,5 @@ Obtener frases de breaking bad
 1. npm intall
 
 ##start server##
+
 2. npm start 
